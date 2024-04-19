@@ -1,0 +1,11 @@
+MYSQLDATABASE=railway
+MYSQLHOST=monorail.proxy.rlwy.net
+MYSQLPASSWORD=glLeXapqJRcysawnlqylFjoHQjASnQLN
+MYSQLPORT=14258
+MYSQLUSER=root
+MYSQL_DATABASE=railway
+MYSQL_PRIVATE_URL=mysql://root:glLeXapqJRcysawnlqylFjoHQjASnQLN@mysql.railway.internal:3306/railway
+MYSQL_ROOT_PASSWORD=glLeXapqJRcysawnlqylFjoHQjASnQLN
+MYSQL_URL=mysql://root:glLeXapqJRcysawnlqylFjoHQjASnQLN@monorail.proxy.rlwy.net:14258/railway
+
+
